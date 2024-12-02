@@ -1,0 +1,6 @@
+streamlit==1.25.0       # Latest version as of now for building interactive apps
+pandas==1.5.3           # For handling data
+plotly==5.17.0          # For visualizations
+transformers==4.34.0    # Hugging Face library to load GPT-2
+torch==2.0.1            # PyTorch for running GPT-2
+
